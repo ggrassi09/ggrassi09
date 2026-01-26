@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabe</h1>
-<h3 align="center">A passionate ungraduated CS major @ UCF</h3>
+<h3 align="center">Bachelor of Computer Science @ UCF</h3>
 
-- 🔭 I’m currently working on **Mobile Software Development**
+- 🔭 I’m currently working on **Software Development/Cyber-Security**
 
-- 🌱 I’m currently learning **React Native, Swift, Android Studio**
+- 🌱 I’m currently learning **PyTorch & TensorFlow**
 
 - 📫 How to reach me **gabegrassi@gmail.com**
 
